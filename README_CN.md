@@ -6,14 +6,29 @@
 
 请确保您使用的是Dify v1.0.0或更高版本。
 
-## 类别
+## 目录
 
-- [通用](#general)
-- [工具](#tools)
-- [LLMs](#llms)
-- [代理策略](#agent-strategy)
-- [扩展](#extention)
-- [捆绑](#bundle)
+- [全部](#general)
+    - [工具](#tools)
+    - [模型](#llms)
+    - [Agent 策略](#agent-strategies)
+    - [扩展](#extentions)
+    - [插件集](#bundles)
+
+---
+
+### 全部
+
+#### 工具
+
+#### 模型
+
+#### Agent 策略
+
+#### 扩展
+
+#### 插件集
+
 
 ## 加入社区
 

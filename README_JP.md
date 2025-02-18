@@ -8,12 +8,26 @@ Dify v1.0.0以上を使用していることを確認してください。
 
 ## カテゴリー
 
-- [一般](#general)
-- [ツール](#tools)
-- [LLMs](#llms)
-- [エージェント戦略](#agent-strategy)
-- [拡張](#extention)
-- [バンドル](#bundle)
+- [全部](#general)
+    - [ツール](#tools)
+    - [LLMs](#llms)
+    - [エージェント策略](#agent-strategies)
+    - [拡張機能](#extentions)
+    - [バンドル](#bundles)
+
+---
+
+### 全部
+
+#### ツール
+
+#### LLMs
+
+#### Agent 策略
+
+#### 拡張機能
+
+#### バンドル
 
 ## コミュニティ
 

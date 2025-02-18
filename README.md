@@ -9,11 +9,25 @@ Please make sure you are using Dify v1.0.0 or above.
 ## Category
 
 - [General](#general)
-- [Tools](#tools)
-- [LLMs](#llms)
-- [Agent Strategy](#agent-strategy)
-- [Extention](#extention)
-- [Bundle](#bundle)
+    - [Tools](#tools)
+    - [LLMs](#llms)
+    - [Agent Strategies](#agent-strategies)
+    - [Extentions](#extentions)
+    - [Bundles](#bundles)
+
+---
+
+### General
+
+#### Tools
+
+#### LLMs
+
+#### Agent Strategies
+
+#### Extentions
+
+#### Bundles
 
 ## Join the community
 
