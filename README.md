@@ -1,6 +1,6 @@
 # Awesome Dify Plugin
 
-[日本語](README_JA.md) ｜ [中文](README_CN.md)
+[日本語](README_JP.md) ｜ [中文](README_CN.md)
 
 This project aims to share useful Dify plugins and third-party maintained plugin sources. It serves as a curated collection of resources to enhance your Dify experience.
 
@@ -15,6 +15,8 @@ Please make sure you are using Dify v1.0.0 or above.
     - [Extentions](#extentions)
     - [Bundles](#bundles)
 
+- [Third-Party Plugin Sources](#plugin-sources)
+
 ---
 
 ### General
@@ -28,6 +30,8 @@ Please make sure you are using Dify v1.0.0 or above.
 #### Extentions
 
 #### Bundles
+
+#### Plugin Sources
 
 ## Join the community
 
